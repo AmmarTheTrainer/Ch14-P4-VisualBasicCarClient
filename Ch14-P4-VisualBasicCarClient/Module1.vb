@@ -22,6 +22,7 @@ Module Module1
         'Console.ReadLine()
 
         Dim dreamCar As New PerformanceCar()
+
         'dreamCar.
         dreamCar.PetName = "Hank"
         dreamCar.TurboBoost()
