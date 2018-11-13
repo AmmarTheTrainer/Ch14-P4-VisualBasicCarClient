@@ -48,6 +48,9 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Ch14-P2-CarLibrary">
+      <HintPath>..\..\Ch14-P2-CarLibrary\Ch14-P2-CarLibrary\bin\Debug\Ch14-P2-CarLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
